@@ -105,3 +105,4 @@ function ValidateForm(){
 // Make sure you return all the boolean variables that are checking each field
  return (validUsername && validUserPassword && validFirstName && validLastName && validPhone && validAddress &&  validCity &&  validZipCode) ;
 }
+
